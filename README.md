@@ -58,6 +58,15 @@ This system opens a compiler  page which asks the user which conversion needs to
 
 # HIGH LEVEL REQUIREMENTS:
 
-
+| ID | Description | Category | Status |
+| --- | --- | --- | --- |
+| HR01 | User shall be able to perform temperature related conversion | Technical | IMPLEMENTED |
+| HR02 | User shall be able to perform currency related conversion | Technical | IMPLEMENTED |
+| HR03 | User shall be able to perform mass related conversion | Technical | IMPLEMENTED |
 
 # LOW LEVEL REQUIREMENTS
+
+| ID | Description | Status |
+| --- | --- | --- |
+| LR01 | User shall be able to choose the required conversion | IMPLEMENTED |
+| LR02 | User shall be able to choose the sub options within the conversion | IMPLEMENTED |
